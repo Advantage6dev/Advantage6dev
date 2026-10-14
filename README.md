@@ -8,7 +8,7 @@ I’m a Web Developer focused on building responsive, interactive, and user-frie
 
 I’m currently expanding my frontend development experience while diving deeper into backend development with Node.js.
 
-I’m also building a new version of my personal portfolio to better showcase my work, skills, and experience.
+Checkout My Portfolio [**Ojekunle David-Joy**](https://ojekunledavidjoy-portfolio.vercel.app/)
 
 ---
 
@@ -16,7 +16,7 @@ I’m also building a new version of my personal portfolio to better showcase my
 
 * **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 * **Frontend:** React, Tailwind CSS
-* **Design:** Framer
+* **Design:** Framer, Framer
 * **Backend:** Node.js
 * **Tools:** Git, GitHub, VS Code, Chrome DevTools
 * **Deployment:** Vercel, Netlify, Render

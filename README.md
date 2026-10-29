@@ -1,4 +1,4 @@
-# Hi, I’m Advantage 👋🏿
+# Hi, I’m Ojekunle David-Joy
 
 I’m a Web Developer focused on building responsive, interactive, and user-friendly web experiences. I enjoy turning ideas and designs into functional products with clean code and thoughtful interfaces.
 
@@ -16,8 +16,8 @@ Checkout My Portfolio [**Ojekunle David-Joy**](https://ojekunledavidjoy-portfoli
 
 * **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 * **Frontend:** React, Tailwind CSS
-* **Design:** Framer, Framer
-* **Backend:** Node.js
+* **Design:** Framer, Figma
+* **Backend:** Node.js, Express
 * **Tools:** Git, GitHub, VS Code, Chrome DevTools
 * **Deployment:** Vercel, Netlify, Render
 
